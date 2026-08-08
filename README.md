@@ -1,3 +1,4 @@
+DOI: [![DOI](https://zenodo.org/badge/1328033989.svg)](https://doi.org/10.5281/zenodo.21853959)
 # 2020 GE reproducibility data/code release v1.1.0
 
 ## What this archive is
