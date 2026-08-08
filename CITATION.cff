@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Robustness limits of nongravitational orbit inference for the near-Earth asteroid 2020 GE: data, code, figures, and reproducibility products"
+version: 1.1.3
+type: software
+message: "If you use this reproducibility release, please cite the archived Zenodo record."
+authors:
+  - given-names: Sirojiddin
+    family-names: Turaev
+    affiliation: "Karshi State Technical University, 225 Mustaqillik Str., Karshi 180100, Uzbekistan"
+  - given-names: Qudratillo
+    family-names: Yuldoshev
+    affiliation: "Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, 33 Astronomy Str., Tashkent 100052, Uzbekistan"
+  - given-names: Sobir
+    family-names: Turaev
+    affiliation: "Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, 33 Astronomy Str., Tashkent 100052, Uzbekistan"
+  - given-names: Davron
+    family-names: Ismoilov
+    affiliation: "Karshi State Technical University, 225 Mustaqillik Str., Karshi 180100, Uzbekistan"
+keywords:
+  - near-Earth asteroid
+  - orbit determination
+  - nongravitational acceleration
+  - Yarkovsky effect
+  - correlated astrometry
+  - reproducibility
